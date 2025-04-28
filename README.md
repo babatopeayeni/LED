@@ -3,7 +3,8 @@
 ## Reflection
 
 ### Summarize the project and what problem it was solving  
-I expanded my Module One circuit by adding a 16×2 character LCD display, giving the system the ability to show text feedback instead of relying solely on an LED. This solved the need for a richer user interface on my embedded device by allowing real-time status and data to be displayed directly on the hardware .
+I expanded my Module One circuit by adding a 16×2 character LCD display, giving the system the ability to show text feedback instead of relying solely on an LED. This solved the need for a richer user interface on my embedded device by allowing real-time status and data to be displayed directly on the hardware.
+
 ![led](https://github.com/user-attachments/assets/599a5af1-c83f-4af5-af52-c8f04bb1b8ba)
 
 ### What did I do particularly well?  
